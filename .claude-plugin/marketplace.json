@@ -1,0 +1,14 @@
+{
+  "name": "colin-skills",
+  "owner": {
+    "name": "Colin Zhang",
+    "github": "colinzhang8989-star"
+  },
+  "plugins": [
+    {
+      "name": "academic-zh",
+      "source": "./plugins/academic-zh",
+      "description": "中文学术写作技能包：去AI化规范、论文结构、审稿、教学反馈、田野报告、咨政报告"
+    }
+  ]
+}
